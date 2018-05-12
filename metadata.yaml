@@ -1,10 +1,16 @@
 _repo: The-Luckiest-Man-in-Denv_50835
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50835-h/images/cover.jpg
 creator:
   author:
     agent_name: Eisner, Simon
     gutenberg_agent_id: '46105'
     url: http://www.gutenberg.org/2009/agents/46105
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50835#The-Luckiest-Man-in-Denv
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-01-03'
 gutenberg_type: Text
